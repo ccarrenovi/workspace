@@ -19,3 +19,9 @@
     version basica, en los sucesivos laboratiores estaremos desarrollando los servicios del ecosistema
     y la version cambiara hacia una version flexible utilizando servicios de plataforma.
  ```
+## springboot-servicio-eureka-server
+ ```
+    La solucion del parcial del lab 7 corresponde al proyecto inicial springboot-servicio-eureka-server.
+    Este proyecto corresponde a la implementacion de un servicio base o de plataforma, especificamente
+    utilizaremos Eureka como servicio de registro de servicios.
+ ```
