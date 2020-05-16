@@ -14,9 +14,11 @@ import com.cognos.app.items.model.Producto;
 
 @Service
 public class ItemServiceImpl implements ItemService {
-
+    
+	// ItemServiceImpl es un cliente que usa RestTemplate
 	@Autowired
 	private RestTemplate clienteRest;
+	
 	@Override
 	public List<Item> findAll() {
 		String url="http://localhost:8081/listar";
